@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+   
+    background-image: url(assets/images/IMG_6098_SparkVideo.gif);
+    background-size: cover; 
+    font-family: 'MyWebFont';
+}
+
+#body{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 60%;
+  height: 80%;
+  padding: 5%;
+  border-radius: 20%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 200%;
+  transition: 6s;
+}
+
+#header:hover{
+    border-radius: 90%;
+  }
+
+#hands{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 80%;
+    top: 60%;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  }
+
+
+.tooltip .tooltiptext {
+  font-family: 'DotGothic16', sans-serif;;
+  visibility: hidden;
+  width: 190px;
+  font-size: smaller;
+  word-wrap: break-word;
+  background-color: white;
+  color: red;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+#drag {
+  position: absolute;
+  top:8%; 
+  left: 40%; 
+}
+#drag>img{
+  width:60%;
+}
+
+#drag1 {
+  position: absolute;
+  top: 5%; 
+  left:2%; 
+}
+#drag1>img{
+  width:60%;
+}
+
+#drag2 {
+  position: absolute;
+  top:40%; 
+  left:38%;
+}
+#drag2>img{
+  width:60%;
+}
+
+
+#drag3 {
+  position: absolute;
+  top:24%; 
+  left:70%; 
+}
+#drag3>img{
+  width:60%;
+}
+
+
+#drag4 {
+  position: absolute;
+  top:25%; 
+  left: 22%; 
+}
+#drag4>img{
+  width:60%;
+}
+
+#drag5 {
+  position: absolute;
+  top:10%; 
+  left:60%;
+}
+#drag5>img{
+  width:60%;
+}
+
+#drag6 {
+  position: absolute;
+  top:52%; 
+  left:70%;
+}
+#drag6>img{
+  width:60%;
+}
+
+
+#drag7 {
+  position: absolute;
+  top:46%; 
+  left:27%; 
+}
+#drag7>img{
+  width:60%;
+}
+
+
+#drag8 {
+  position: absolute;
+  top: 8%; 
+  left:53%;
+}
+#drag8>img{
+  width:60%;
+}
+
+
+#drag9 {
+  position: absolute;
+  top:15%; 
+  left:30%; 
+}
+#drag9>img{
+  width:60%;
+}
+
+#drag10 {
+  position: absolute;
+  top:42%; 
+  left:61%; 
+}
+#drag10>img{
+  width:60%;
+}
+
+
+#drag11 {
+  position: absolute;
+  top:60%; 
+  left:54%; 
+}
+#drag11>img{
+  width:60%;
+}
+
+
+#drag12 {
+  position: absolute;
+  top:72%; 
+  left:63%; 
+}
+#drag12>img{
+  width:60%;
+}
+
+
+#drag13 {
+  position: absolute;
+  top:65%; 
+  left:32%; 
+}
+#drag13>img{
+  width:60%;
+}
+#drag14 {
+  position: absolute;
+  top: 70%; 
+  left:45%; 
+}
+#drag14>img{
+  width:60%;
+}
+
+#drag15 {
+  position: absolute;
+  top:37%; 
+  left:50%;
+}
+#drag15>img{
+  width:60%;
+}

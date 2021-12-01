@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+    background-image: url(assets/images/IMG_6091_SparkVideo.gif);
+    background-size:cover;
+    font-family: 'MyWebFont';
+}
+
+#body{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 60%;
+  height: 80%;
+  padding: 5%;
+  border-radius: 20%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 200%;
+  transition: 6s;
+}
+
+#header:hover{
+    border-radius: 90%;
+  }
+
+#hands{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 80%;
+    top: 60%;
+}
+
+#content{
+    position: absolute;
+    width: 40%;
+    height: 60%;
+    top: 10%;
+    left: 10%;
+    padding: 3%;
+    overflow: scroll;
+    color: red;
+    font-size: 60px;
+    border: red solid 3px;
+}

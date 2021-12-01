@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+    background: rgb(35, 84, 15);
+    background-image: url(assets/images/IMG_6086_2_SparkVideo.gif);
+    background-size:cover;
+    font-family: 'MyWebFont';
+}
+
+#header{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 40%;
+  height: 20%;
+  padding: 5%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 40px;
+  transition: 6s;
+}
+
+#header:hover{
+    border-radius: 90%;
+  }
+
+#hands{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 80%;
+    top: 60%;
+}
+
+#nav{
+  position: absolute;
+  width: 40%;
+  height: 30%;
+  left: 10%;
+  top: 50%;
+}
+
+#touch{
+  position: absolute;
+  top: 15%;
+  left: 7%;
+  width: 30%;
+  height: 40%;
+  padding: 2%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 20px;
+}
+
+#reflect{
+  position: absolute;
+  top: 15%;
+  left: 45%;
+  width: 30%;
+  height: 40%;
+  padding: 2%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 20px;
+}
+
+#read{
+  position: absolute;
+  top: 15%;
+  left: 82%;
+  width: 30%;
+  height: 40%;
+  padding: 2%;
+  border: solid 4px;
+  border-color: red;
+  color: red;
+  overflow: hidden;
+  font-size: 20px;
+}
