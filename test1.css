@@ -9,7 +9,23 @@ body{
     background-size:cover;
     font-family: 'MyWebFont';
 }
+#content{
+  position: absolute;
+  width: 40%;
+  height: 60%;
+  top: 10%;
+  left: 10%;
+  padding: 3%;
+  overflow: scroll;
+  color: red;
+  font-size: 60px;
+  border: red solid 3px;
+  transition: 1.5s;
+}
 
+#content:hover{
+  background-color: black;
+}
 #drag {
     position: absolute;
   }
