@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+    background: rgb(35, 84, 15);
+    background-image: url(assets/images/IMG_7895_AdobeCreativeCloudExpress.gif);
+    background-size: contain;
+    font-family: 'MyWebFont';
+}

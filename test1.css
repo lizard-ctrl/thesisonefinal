@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+    background: rgb(255,0,0);
+    background-image: url(assets/images/IMG_7898_AdobeCreativeCloudExpress.gif);
+    background-size:cover;
+    font-family: 'MyWebFont';
+}
+
+#drag {
+    position: absolute;
+  }
+  
+  #drag1 {
+    position: absolute;
+  }
+  
+  #drag2 {
+    position: absolute;
+  }
+  
+  #drag3 {
+    position: absolute;
+  }
+  
+  #drag4 {
+    position: absolute;
+  }
+  
+  #drag5 {
+    position: absolute;
+  }
+  
+  #drag6 {
+    position: absolute;
+  }
+  
+  #drag7 {
+    position: absolute;
+  }
+  
+  #drag8 {
+    position: absolute;
+  }
+  
+  #drag9 {
+    position: absolute;
+  }
+  
+  #drag10 {
+    position: absolute;
+  }
+  
+  #drag11 {
+    position: absolute;
+  }
+  
+  #drag12 {
+    position: absolute;
+  }
+  
+  #drag13 {
+    position: absolute;
+  }
+  
+  #drag14 {
+    position: absolute;
+  }
+  
+  #drag15 {
+    position: absolute;
+  }
+  
+  #drag16 {
+    position: absolute;
+  }
+  
+  #drag17 {
+    position: absolute;
+  }
+  
+  #drag18 {
+    position: absolute;
+  }
+  
+  #drag19 {
+    position: absolute;
+  }
+  
+  #drag20 {
+    position: absolute;
+  }
+  
+  #drag21 {
+    position: absolute;
+  }
+  
+  #drag22 {
+    position: absolute;
+  }
+  
+  #drag23 {
+    position: absolute;
+  }
+  
+  #drag24 {
+    position: absolute;
+  }
+  
+  #drag25 {
+    position: absolute;
+  }
+  
+  #drag26 {
+    position: absolute;
+  }
+  

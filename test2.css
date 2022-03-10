@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src:  url('assets/font/0xA000/0xA000-Pixelated-Mono.ttf') format('ttf')
+  }
+  
+body{
+    background-image: url(assets/images/IMG_6096_SparkVideo.gif);
+    font-family: 'MyWebFont';
+}
+
+#ML{
+  position: absolute;
+  top: 10%;
+  left: 80%;
+  width: 60%;
+  height: 80%;
+  overflow: hidden;
+}
+
+a{
+border: rgb(146, 142, 173);
+}
+
+h1{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  font-size: 500%;
+}
+
+#handone{
+  height: 25% !important;
+}
+
+#handtwo{
+  height: 25% !important;
+}
+
+#handthree{
+  height: 25% !important;
+  
+}
