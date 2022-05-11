@@ -2,7 +2,7 @@ let video;
 let poseNet;
 let poses = [];
 var r;
-var words = ["move", "touch", "feel", "now","here"];
+var words = ["now"];
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
